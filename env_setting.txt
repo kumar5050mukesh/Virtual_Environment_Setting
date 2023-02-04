@@ -1,0 +1,10 @@
+Set-ExecutionPolicy unrestricted
+is as an adminstrator windows power shell me chalana padega
+
+virtual environment banana padega
+python -m venv <env_name>
+
+
+
+activate environment
+<environment_name>\Scripts\Activate.ps1
